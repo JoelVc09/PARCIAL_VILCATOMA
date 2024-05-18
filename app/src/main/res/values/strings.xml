@@ -13,8 +13,12 @@
     <string name="TEAMS">TEAMS</string>
     <string name="STADIUMS">STADIUMS</string>
     <string name="Team">TEAMS</string>
-    <string name="goto">GO TO MENU</string>
+    <string name="gotoF">GO TO MENU</string>
     <string name="GO">GO TO MENU</string>
     <string name="STADIE">STADIUMS</string>
     <string name="GOE">GO TO MENU</string>
+    <string name="GOOMU">GO TO MENU</string>
+    <string name="Lugar">lugar</string>
+    <string name="nombre">nombre</string>
+    <string name="numero">numero</string>
 </resources>

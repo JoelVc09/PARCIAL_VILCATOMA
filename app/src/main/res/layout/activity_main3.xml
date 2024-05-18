@@ -109,7 +109,7 @@
         android:id="@+id/btnmenu"
         android:layout_width="148dp"
         android:layout_height="46dp"
-        android:text="Button"
+        android:text="@string/GOOMU"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

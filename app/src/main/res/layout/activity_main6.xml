@@ -29,7 +29,7 @@
         tools:layout_editor_absoluteY="140dp" />
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/recyclerView"
+        android:id="@+id/rvSigno"
         android:layout_width="384dp"
         android:layout_height="437dp"
         app:layout_constraintBottom_toBottomOf="parent"
