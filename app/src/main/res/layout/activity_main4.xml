@@ -7,4 +7,62 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity4">
 
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="335dp"
+        android:layout_height="209dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.088"
+        app:srcCompat="@drawable/logo" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Meny"
+        android:textSize="60sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:layout_constraintVertical_bias="0.075" />
+
+    <Button
+        android:id="@+id/btnprizes"
+        android:layout_width="268dp"
+        android:layout_height="50dp"
+        android:text="@string/PRIZES3"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintVertical_bias="0.139" />
+
+    <Button
+        android:id="@+id/btnteams"
+        android:layout_width="271dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/TEAMS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnprizes"
+        app:layout_constraintVertical_bias="0.019" />
+
+    <Button
+        android:id="@+id/btnstadiums"
+        android:layout_width="268dp"
+        android:layout_height="48dp"
+        android:text="@string/STADIUMS"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/btnteams"
+        app:layout_constraintVertical_bias="0.155" />
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">PARCIAL_VILCATOMA</string>
+    <string name="bienvenida">Welcome to American Cup 2024</string>
+    <string name="bienvenidad2">"immerse yourelft in the exicentemen of soccer as nations complete for glory in this epic tournament "</string>
+    <string name="stasr">GET STARTED</string>
+    <string name="LOGIN">"LOGIN "</string>
+    <string name="SING">SIGN IN</string>
+    <string name="PRIZES">PRIZES</string>
+    <string name="CALCULATE">CALCULATE</string>
+    <string name="PRIME">1ro place</string>
+    <string name="Meny">MENU</string>
+    <string name="PRIZES3">PRIZES</string>
+    <string name="TEAMS">TEAMS</string>
+    <string name="STADIUMS">STADIUMS</string>
+    <string name="Team">TEAMS</string>
+    <string name="goto">GO TO MENU</string>
+    <string name="GO">GO TO MENU</string>
+    <string name="STADIE">STADIUMS</string>
+    <string name="GOE">GO TO MENU</string>
 </resources>
